@@ -1,0 +1,64 @@
+.sidebar{
+    position: relative;
+    top: 0%;
+    left: 0;
+    width: 230px;
+    height: 100vh;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+}
+
+.sidebar-brand{
+    width: 200px;
+    height: 70px;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.brand-logo{
+    width: 50px;
+    height: 50px;
+    margin-top: -0.5rem;
+}
+.brand-name{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 33px;
+    color: #000000;
+}
+
+.create-user{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    position: relative;
+    top: 2%;
+    left: 7%;
+}
+.create-user-text{
+    font-size: 18px;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+}
+.sidebar-menu-items{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+.sidebar-menu-item{
+    list-style-type: none;
+    cursor: pointer;
+    padding-top: 20px;
+}
+i{
+    font-size: 30px;
+}
+.sidebar-text{
+    margin-left: 1rem;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27px;
+}

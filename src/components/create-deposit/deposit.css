@@ -1,0 +1,46 @@
+.frst-row{
+    position: relative;
+    left: 3%;
+    top: 3%;
+}
+
+.sub-heading{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.recent-card{
+    width: 200px;
+    height: 300px;
+}
+.card-titless{
+    font-size: 15px;
+    font-size: 800;
+    line-height: 22px;
+}
+.deposit-info{
+    display: flex;
+    flex-direction: column;
+}
+.desc-box{
+    margin-top: -1rem;
+}
+.btn-share{
+    width: 150px;
+    height: 30px;
+    background: crimson;
+    
+}
+.share{
+    margin-left: -1rem;
+    margin-top: -1rem;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.scnd-row{
+    position: relative;
+    top: 5%;
+    left: 2%;
+}

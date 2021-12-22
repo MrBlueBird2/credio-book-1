@@ -1,0 +1,97 @@
+.btn-outline-danger{
+    position: absolute;
+    left: 70%;
+    top: 3%;
+}
+.row1{
+  
+}
+.today-button{
+    position: absolute;
+    left: 2%;
+    top: 12%;
+    width: 250px;
+    height: 50px;
+    background: crimson;
+    border-radius: 10px;
+}
+.btn-today{
+    color: white;
+    margin-top: 0.3rem;
+}
+.arrow{
+    position: absolute;
+    left: 85%;
+    font-size: 20px;
+}
+.fa-chevron-down{
+    font-size: 22px;
+}
+.stores{
+    position: relative;
+    top: 22%;
+}
+.left-card{
+    width: 250px;
+    height: 150px;
+    background: #FFFFFF;
+    border: 1px solid rgba(188, 0, 24, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 14px rgba(188, 0, 24, 0.15);
+    border-radius: 20px;
+}
+.button-grp{
+    position: relative;
+    top: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.btn-deposit{
+    background: crimson;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.btn-withdraw{
+    background: #FFFFFF;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid crimson;
+}
+.btn-advance{
+    background: #FFFFFF;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid crimson;
+}
+.btn-print{
+    background: #FFFFFF;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid crimson;
+}
+.detail-card{
+    width: 750px;
+    height: 500px;
+    position: relative;
+    top: 10%;
+    background: #FFFFFF;
+    border: 1px solid rgba(188, 0, 24, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 14px rgba(188, 0, 24, 0.15);
+    border-radius: 20px;
+}
+.col-heading{
+    font-size: 18px;
+    font-weight: 600;
+}
+.user-names{
+    color: #861F41;
+}
+.input-group-text{
+    width: 20px;
+    height: 20px;
+}
