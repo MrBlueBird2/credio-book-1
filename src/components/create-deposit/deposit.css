@@ -1,0 +1,152 @@
+.recent-heading{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #424242; 
+}
+.st-row{
+    position: relative;
+    top: 2%;
+    left: 2%;
+}
+.deposits-card{
+    width: 215px;
+    height: 350px;
+    background: #FFFFFF;
+box-shadow: 0px 2.298px 8.04301px rgba(0, 0, 0, 0.15);
+border-radius: 5.74501px;
+}
+
+.deposits-card-heading{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    justify-content: center;
+    color: #000000;
+}
+.line{
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 0px;
+    border: 0.574501px solid #D3D3D3;
+}
+.stores-info{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 15%;
+}
+.store-img{
+    margin-left: 0.5rem;
+}
+.stores-infos{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+.store-nam{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+    color: #BC0018;
+}
+.store-mob{
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    color: #707070;
+}
+.line2{
+    width: 180px;
+    height: 0px;
+    border: 0.574501px solid #D3D3D3;
+    margin-top: 4rem;
+}
+.cash-detail{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5rem;
+}
+.deposit-detail{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 18px;
+    color: #707070
+}
+.cash-amt{
+    font-weight: 600;
+    font-size: 20.1075px;
+    line-height: 27px;
+    color: #BC0018;
+}
+.cash-transaction{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 18px;
+    color: #707070;
+}
+
+.line3{
+    width: 180px;
+    height: 0px;
+    border: 0.574501px solid #D3D3D3;
+    margin-top: 1rem;
+}
+
+.desc-section{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 18px;
+    color: #C4C4C4;
+}
+.line4{
+    width: 180px;
+    height: 0px;
+    border: 0.574501px solid #D3D3D3;
+    margin-top: 3rem;
+}
+
+.share-details{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+
+.share-btn{
+    width: 100px;
+    height: 40px;
+    background: #BC0018;
+    border-radius: 30px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.shares-details{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+.share-date{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+.share-time{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+.nd-row{
+    position: relative;
+    left: 2%;
+    top: 3%;
+}
